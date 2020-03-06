@@ -1,0 +1,2 @@
+La carpeta donde guarda los archivos:
+C:\xampp\htdocs\pagina\archivos

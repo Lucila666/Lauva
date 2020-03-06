@@ -1,0 +1,24 @@
+ header{
+ background-color: 9C9C9C;
+ }
+  
+footer{
+  background-color: FF0080; 
+  text-align: left;
+  font-size: 3em;
+}
+h1 {
+  background-color: FF0000; 
+  text-align: center;
+  font-size: 10em;
+}
+h2 {
+  background-color: FFC0CE; 
+  text-align: center;
+  font-size: 7em;
+}
+
+p{   
+  text-align: center;
+  font-size: 1em;
+}
