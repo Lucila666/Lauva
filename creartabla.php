@@ -1,13 +1,13 @@
 <?php
 
  
- $prueba=fopen("prueba.txt","r")
+ $prueba=fopen("entrada.txt","r")
  or die("problemas al abrir el archivo");
         $loop = 0; 
         while (!feof($prueba)) { 
             $loop++;
             $line = fgets($prueba); 
-            $field[$loop] = explode ('|', $line);
+            $field[$loop] = str_split($prueba, 25);
 
             echo '
                 <div>
