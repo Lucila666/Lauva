@@ -1,24 +1,38 @@
- header{
- background-color: 9C9C9C;
+ body{
+ background-color: #808080;
+ text-align: center;
+ 
  }
   
 footer{
-  background-color: FF0080; 
-  text-align: left;
-  font-size: 3em;
+  background-color: #616A6B; 
+  text-align: center;
+  font-size: 1em;
 }
 h1 {
-  background-color: FF0000; 
+  color: #B7B120; 
   text-align: center;
-  font-size: 10em;
+  font-size: 8em;
 }
 h2 {
-  background-color: FFC0CE; 
+  color: #F9F8DD; 
   text-align: center;
-  font-size: 7em;
+  font-size: 3em;
 }
 
 p{   
   text-align: center;
   font-size: 1em;
+}
+table {
+   width: 100%;
+   border: 1px solid #000;
+}
+th, td {
+   width: 20%;
+   text-align: center;
+   border: 1px solid #000;
+   border-spacing: 0;
+   color: #F9F8DD;
+   
 }
