@@ -5,6 +5,26 @@
         <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
     </head>
     <body>
+<?php
+ 
+$host="localhost";
+$user="root";
+$pw="";
+$bd="torneo";
+
+$conn= mysqli_connect($host,$user,$pw,$bd);
+
+if ($conn){
+    mysqli_select_db($conn,$bd);
+    print("<strong>Conectado correctamente a la Base de Datos</strong>");
+}
+else {
+    die("<strong>Error correctamente a la Base de Datos</strong>)");
+}
+?>
+        
+        <a href="index.php"><button type="button">VOLVER</button></a>
+        
         <table>
          <thead>
                     <tr>
@@ -35,23 +55,29 @@ $totalA=array();
                 array_push($rankA,$rank);
                 $team= substr($line2, 5, 30);
                 array_push($teamA,$team);
-                $kills= substr($line1, 40, 4);
+                $kills= (int)(substr($line1, 40, 4));
                 array_push($killsA,$kills);
-                $placement= substr($line1, 72, 5);
+                $placement= (int)(substr($line1, 72, 5));
                 array_push($placementA,$placement);
-                $total= substr($line1, 105, 5);
+                $total= (int)(substr($line1, 105, 5));
                 array_push($totalA,$total);
+                $id= strstr($line2, 'ID:');
+                $id= trim($id, " ID:");
+                $id=(int)($id);
             }else{
                 $rank= substr($line1, 5, 3);
                 array_push($rankA,$rank);
                 $team= substr($line2, 5, 20);
                 array_push($teamA,$team);
-                $kills= substr($line1, 37, 4);
+                $kills= (int)(substr($line1, 37, 4));
                 array_push($killsA,$kills);
-                $placement= substr($line1, 69, 5);
+                $placement= (int)(substr($line1, 69, 5));
                 array_push($placementA,$placement);
-                $total= substr($line1, 102, 5);
+                $total=(int)(substr($line1, 102, 5));
                 array_push($totalA,$total);
+                $id= strstr($line2, 'ID:');
+                $id= trim($id, " ID:");
+                $id=(int)($id);
             }
             
             echo '
@@ -67,17 +93,22 @@ $totalA=array();
 
                 </table>
             ';
+            
+            $consulta="INSERT INTO jugadores(Id,Nombre,KillScore,Pleacement,Total) VALUES('.$id.','.$team.','.$kills.','.$placement.','.$total.')";
+            $peticion=mysqli_query($conn,$consulta);
+            //$info=mysqli_fetch_array($peticion);
             $prueba++; 
         }
-fclose($prueba);   
-//print_r($rankA);
-//print_r($teamA);
-//print_r($killsA);
-//print_r($placementA);
-//print_r($totalA);    
+fclose($prueba); 
+mysqli_close( $conn );
+  
 
 
 
 ?>
     </body>
+    
+    <footer>
+     Creado por Lauva®. Derechos reservados.
+    </footer>
 </html>
