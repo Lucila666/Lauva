@@ -1,18 +1,12 @@
-<!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html>
  <head>
-  <title>Bienvenidos</title>
+  <title>Nuevo Torneo</title>
   <link rel="stylesheet" href="style.css">
   <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
  </head>
  <body>
      
-     <h1> Bienvenidos!</h1>
+     
      <h2> 1. Para comenzar debe subir el archivo con los datos a analizar.</h2>
      <form enctype="multipart/form-data" action="ejecucion.php" method="post">
         <input name="archivo" type="file" />
@@ -24,16 +18,10 @@ and open the template in the editor.
         <button>Tabla</button>
     </form>
    
-     <h2> Inicialice un nuevo torneo</h2>
+     <h2> 3.Generar grafico.</h2>
      <form enctype="multipart/form-data" action="grafico.php" method="post">
         
-        <button>Torneo Nuevo</button>
-    </form>
-     
-     <h2> Actualizar puntos en torneo existente</h2>
-     <form enctype="multipart/form-data" action="grafico.php" method="post">
-        
-        <button>Torneo Existente</button>
+        <button>Grafico</button>
     </form>
      
  </body>
@@ -41,3 +29,4 @@ and open the template in the editor.
      Creado por Lauva. Derechos reservados.
  </footer>
 </html>
+

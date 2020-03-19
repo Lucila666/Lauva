@@ -1,0 +1,94 @@
+﻿Rank: 1                    KillScore: 100                  RankScore: 600                  TotalScore: 700                 
+NAME: ZOTㅤＪＵＡＮＫＡ           ID: 280532011            KILL: 5                   
+Rank: 2                    KillScore: 40                   RankScore: 540                  TotalScore: 580                 
+NAME: ＮＩＭＯｖｚ⁶⁸             ID: 448720121            KILL: 2                   
+Rank: 3                    KillScore: 20                   RankScore: 500                  TotalScore: 520                 
+NAME: ƁƑ•Ｍ.ＭＯＲＡＵ•࿐         ID: 364513076            KILL: 1                   
+Rank: 4                    KillScore: 40                   RankScore: 480                  TotalScore: 520                 
+NAME: ƁƑ•ＢＵＦＦＯＮ螿           ID: 33573607             KILL: 2                   
+Rank: 5                    KillScore: 20                   RankScore: 460                  TotalScore: 480                 
+NAME: GS٭͢Ｓｃａｎｎｏｒᴿ         ID: 324805570            KILL: 1                   
+Rank: 6                    KillScore: 40                   RankScore: 440                  TotalScore: 480                 
+NAME: †ᴸＥＭＩˢᵘᵇ㍭            ID: 192094737            KILL: 2                   
+Rank: 7                    KillScore: 60                   RankScore: 420                  TotalScore: 480                 
+NAME: FGㅤDylanC            ID: 194598534            KILL: 3                   
+Rank: 8                    KillScore: 160                  RankScore: 400                  TotalScore: 560                 
+NAME: FGㅤTIKI              ID: 106905583            KILL: 8                   
+Rank: 9                    KillScore: 0                    RankScore: 380                  TotalScore: 380                 
+NAME: ¹²ᴀᴘㅤＮＩＣＯᴹ           ID: 377770411            KILL: 0                   
+Rank: 10                   KillScore: 60                   RankScore: 360                  TotalScore: 420                 
+NAME: ᴿᵞᴸғʀᴀɴᴴᴵᵀ           ID: 232022767            KILL: 3                   
+Rank: 11                   KillScore: 0                    RankScore: 340                  TotalScore: 340                 
+NAME: ƁƑ•ＣＨＩＮＯꨁᵍ           ID: 10120542             KILL: 0                   
+Rank: 12                   KillScore: 40                   RankScore: 325                  TotalScore: 365                 
+NAME: ¹²ᴀᴘㅤＢＩＣＨＵ           ID: 34904518             KILL: 2                   
+Rank: 13                   KillScore: 0                    RankScore: 310                  TotalScore: 310                 
+NAME: CSYㅤꊛᴿＨＡＢＩᴬˣ         ID: 624571621            KILL: 0                   
+Rank: 14                   KillScore: 60                   RankScore: 295                  TotalScore: 355                 
+NAME: ϟＦＵＳＯＫˢᵘᵇ㍭           ID: 271741016            KILL: 3                   
+Rank: 15                   KillScore: 0                    RankScore: 280                  TotalScore: 280                 
+NAME: CSYㅤꊛJUNIOR•         ID: 213474804            KILL: 0                   
+Rank: 16                   KillScore: 0                    RankScore: 265                  TotalScore: 265                 
+NAME: ᴿᵞᴸʜᴀᴄᴋㅤϟㅤ           ID: 115036687            KILL: 0                   
+Rank: 17                   KillScore: 0                    RankScore: 250                  TotalScore: 250                 
+NAME: ƁƑ•ＣＨＩＣＨＡ•卐          ID: 244461626            KILL: 0                   
+Rank: 18                   KillScore: 40                   RankScore: 235                  TotalScore: 275                 
+NAME: ᴿᵞᴸʀʏᴜzᴮ             ID: 342304936            KILL: 2                   
+Rank: 19                   KillScore: 0                    RankScore: 220                  TotalScore: 220                 
+NAME: ║ᵀᑭ║ᵀᴼᴮᴵᴿᴬᴹᴬ         ID: 367162636            KILL: 0                   
+Rank: 20                   KillScore: 0                    RankScore: 205                  TotalScore: 205                 
+NAME: †ᵗᵏ†ＺＯＥＮ             ID: 260795559            KILL: 0                   
+Rank: 21                   KillScore: 40                   RankScore: 190                  TotalScore: 230                 
+NAME: ║ᵀᑭོ║ϟƬʜʀᴏɴᴇ         ID: 410858914            KILL: 2                   
+Rank: 22                   KillScore: 0                    RankScore: 180                  TotalScore: 180                 
+NAME: ║ᵀᑭོ║ＪＯＫＥＲッ          ID: 366129558            KILL: 0                   
+Rank: 23                   KillScore: 20                   RankScore: 170                  TotalScore: 190                 
+NAME: ᴿᵞᴸᴀᴍғʟᴇʀɪᴜᴍ         ID: 193057111            KILL: 1                   
+Rank: 24                   KillScore: 0                    RankScore: 160                  TotalScore: 160                 
+NAME: VSGㅤCHINOᴬ           ID: 245579985            KILL: 0                   
+Rank: 25                   KillScore: 0                    RankScore: 150                  TotalScore: 150                 
+NAME: KPㅤMARADONA          ID: 271109085            KILL: 0                   
+Rank: 26                   KillScore: 0                    RankScore: 140                  TotalScore: 140                 
+NAME: KSKㅤSUXO⁹⁹           ID: 179152267            KILL: 0                   
+Rank: 27                   KillScore: 0                    RankScore: 130                  TotalScore: 130                 
+NAME: N5RㅤROQUITOᴳ         ID: 120473325            KILL: 0                   
+Rank: 28                   KillScore: 20                   RankScore: 120                  TotalScore: 140                 
+NAME: CSYㅤꊛᵂＳＭＯＫᴬˣ         ID: 85256679             KILL: 1                   
+Rank: 29                   KillScore: 20                   RankScore: 110                  TotalScore: 130                 
+NAME: ＴＥＲＲＥＮＯᵛˢᵍ           ID: 109295698            KILL: 1                   
+Rank: 30                   KillScore: 0                    RankScore: 100                  TotalScore: 100                 
+NAME: ●FATALFURY●          ID: 543365281            KILL: 0                   
+Rank: 31                   KillScore: 0                    RankScore: 90                   TotalScore: 90                  
+NAME: 『Ꭺs』TruxMMA          ID: 1191249649           KILL: 0                   
+Rank: 32                   KillScore: 20                   RankScore: 85                   TotalScore: 105                 
+NAME: KSKㅤϟㅤKAPP           ID: 128423866            KILL: 1                   
+Rank: 33                   KillScore: 20                   RankScore: 80                   TotalScore: 100                 
+NAME: FSK〓ʀᴇɴᴀᴛᴏϟᴱ         ID: 264302355            KILL: 1                   
+Rank: 34                   KillScore: 0                    RankScore: 75                   TotalScore: 75                  
+NAME: JᴏssᴜᴇSᴜᴀʀᴇᴢ         ID: 258051249            KILL: 0                   
+Rank: 35                   KillScore: 0                    RankScore: 70                   TotalScore: 70                  
+NAME: FGㅤSantiGarㅤ         ID: 244174005            KILL: 0                   
+Rank: 36                   KillScore: 0                    RankScore: 65                   TotalScore: 65                  
+NAME: ᵛˢᵍＫＩＯＮＲＯＪＯ■         ID: 419193215            KILL: 0                   
+Rank: 37                   KillScore: 0                    RankScore: 60                   TotalScore: 60                  
+NAME: INTㅤ⚡ⁱㅤＧＩＯʰˢ         ID: 73357312             KILL: 0                   
+Rank: 38                   KillScore: 0                    RankScore: 55                   TotalScore: 55                  
+NAME: ITZㅤLOKI333          ID: 172620667            KILL: 0                   
+Rank: 39                   KillScore: 20                   RankScore: 50                   TotalScore: 70                  
+NAME: ᴬᵀᴿᏗᏝᏋאᎥᏕ家           ID: 252795007            KILL: 1                   
+Rank: 40                   KillScore: 0                    RankScore: 40                   TotalScore: 40                  
+NAME: CSYㅤꊛＢＲＯＫＥＮ᰽         ID: 422968052            KILL: 0                   
+Rank: 41                   KillScore: 20                   RankScore: 35                   TotalScore: 55                  
+NAME: SMRㅤ¹²ᴀᴘSERF         ID: 47460513             KILL: 1                   
+Rank: 42                   KillScore: 0                    RankScore: 30                   TotalScore: 30                  
+NAME: ᴬᵀᴿㅤϟㅤＫＡＯＺ家          ID: 552107160            KILL: 0                   
+Rank: 43                   KillScore: 0                    RankScore: 25                   TotalScore: 25                  
+NAME: ᴬᵀᴿD-KNO家            ID: 217446018            KILL: 0                   
+Rank: 44                   KillScore: 0                    RankScore: 20                   TotalScore: 20                  
+NAME: N5RㅤTEOᴬ             ID: 874260276            KILL: 0                   
+Rank: 45                   KillScore: 0                    RankScore: 15                   TotalScore: 15                  
+NAME: 『Ꭺs』Ｓㄚ么乙ツ⁰⁵          ID: 290267741            KILL: 0                   
+Rank: 46                   KillScore: 0                    RankScore: 0                    TotalScore: 0                   
+NAME: ᴬᵀᴿＢＲＡＩＡＮ家           ID: 607808700            KILL: 0                   
+Rank: 47                   KillScore: 0                    RankScore: 0                    TotalScore: 0                   
+NAME: CHİNOʳᵒ' SZ          ID: 152960393            KILL: 0                   

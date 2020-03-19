@@ -1,4 +1,4 @@
-<?php
+<<?php
  
 $nombre=$_FILES['archivo']['name'];
 $guardado=$_FILES['archivo']['tmp_name'];
@@ -22,3 +22,5 @@ if(!file_exists('archivos')){
     
 }
 ?>
+<h2>Se ha cargado correctamente el archivo /br</h2>
+<a href="index.php"><button type="button">VOLVER</button></a>
