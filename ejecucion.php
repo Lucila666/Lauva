@@ -1,3 +1,9 @@
+<html>
+    <head>
+  
+    <link rel="stylesheet" href="style.css">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    </head>
 <<?php
  
 $nombre=$_FILES['archivo']['name'];
@@ -22,5 +28,10 @@ if(!file_exists('archivos')){
     
 }
 ?>
-<h2>Se ha cargado correctamente el archivo /br</h2>
-<a href="index.php"><button type="button">VOLVER</button></a>
+<h2>Se ha cargado correctamente el archivo </h2>
+<a href="formulario.html"><button type="button">Continuar</button></a>
+
+<footer>
+     Creado por Lauva®. Derechos reservados.
+ </footer>
+</html>

@@ -15,7 +15,7 @@ and open the template in the editor.
      <h1> Bienvenidos!</h1>
      <img src="img/Lauva.png" alt="" height="300px">
      
-     <h2>A continuacion encontraras dos modeladidades de uso.</h2>
+     <h2>A continuacion encontraras dos modalidades de uso.</h2>
    
      <h2> Inicialice un nuevo torneo</h2>
      <form enctype="multipart/form-data" action="nuevotorneo.php" method="post">

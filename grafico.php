@@ -1,3 +1,17 @@
+<html>
+    <head>
+        <title>Lauva</title>
+        <link rel="stylesheet" href="style.css">
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    </head>
+    
+    <body>
+    <?php
+    $torneo1=$_GET['torneo'];
+    echo "<h2>Grafico de puntos del torneo ".$torneo1. "</h2>";
+    ?>
+    <a href="index.php"><button type="button">Home</button></a></html>
+    <a href="creartabla.php?torneo=<?php echo $torneo1;?>">Tabla de puntajes</a>
 <?php
  
 $host="localhost";
@@ -22,7 +36,8 @@ while ($row_recupero= mysqli_fetch_array($resultado, MYSQLI_ASSOC)){
 mysqli_free_result($resultado);
 
 
-$consulta1 = "SELECT Pleacement FROM jugadores";
+
+$consulta1 = "SELECT Placement FROM jugadores";
 $resultado1 = mysqli_query($conn,$consulta1 ) or die ( "Algo ha ido mal en la consulta a la base de datos");
 while ($row_recupero1= mysqli_fetch_array($resultado1, MYSQLI_ASSOC)){
     foreach($row_recupero1 as $col_value){
@@ -51,7 +66,7 @@ var nombres= <?php echo json_encode($nombresB);?>;
 var datapoint1=[];
 var datapoint2=[];
 var datapoint3=[]
-var long=6;
+var long=30;
 for (var i=0; i<long; i++) {
     datapoint1.push({ y: Number(placement[i]), label: nombres[i] });
     datapoint2.push({ y: Number(kills[i]),label: nombres[i]});
@@ -117,3 +132,8 @@ $("#chartContainer").CanvasJSChart(options);
 <div id="chartContainer" style="height: 850px; width: 98%;"></div>
 <script type="text/javascript" src="https://canvasjs.com/assets/script/jquery-1.11.1.min.js"></script>
 <script type="text/javascript" src="https://canvasjs.com/assets/script/jquery.canvasjs.min.js"></script>
+</body>
+    <footer>
+     Creado por Lauva®. Derechos reservados.
+    </footer>
+</html>
